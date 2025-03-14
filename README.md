@@ -25,7 +25,7 @@
 <br>
 <hr>
 <div>
-<a href="https://github.com/LucasTavrs2">
+<a href="https://github.com/joaoMalta1">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoMalta1&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoMalta1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
